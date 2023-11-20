@@ -1,9 +1,6 @@
 # Pull request
 
 1. Сделать clone/fork репозитория https://github.com/rover131/geekbrains
-# Pull request
-
-1. Сделать clone/fork репозитория https://github.com/rover131/geekbrains
 
     *Для клонирования репозитария укажите в командной строке - git clone( добавить ссылку)*
 
